@@ -6,6 +6,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 [is-string-a-number](https://www.npmjs.com/package/is-string-a-number) module
 instead.**
 
+## [v1.0.4] - 2018-11-18
+
+Patch:
+- Update README with more specific information.
+
 ## [v1.0.3] - 2018-11-18
 
 Patch:
