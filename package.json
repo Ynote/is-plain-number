@@ -1,6 +1,6 @@
 {
   "name": "is-plain-number",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is a JavaScript utility. It returns `true` if the value is a number or plain number string (not in scientific exponential notation or hexadecimal notation for instance).",
   "main": "index.js",
   "scripts": {
